@@ -33,7 +33,7 @@ sql npm start
 or
 sql yarn start
 
-Open your web browser and navigate to http://localhost:3000 to view the application.
+## Open your web browser and navigate to http://localhost:3000 to view the application.
 
 Usage
 The reverse image search engine allows you to perform reverse image searches by uploading an image. You can choose to search using Google Reverse Image Search API or TinEye API. The results of the search will be displayed, along with the image's EXIF data. You can also export the results to a searchable PDF format.
