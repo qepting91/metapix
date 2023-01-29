@@ -1,0 +1,13 @@
+server.js: This is the main file that starts the backend server and sets up the endpoints for the frontend to interact with.
+
+routes.js: This file contains the routing logic for different endpoints.
+
+controllers.js: This file contains the functions that handle requests for different endpoints.
+
+models.js: This file contains the schema for the database.
+
+middleware.js: This file contains any middleware functions that need to be executed before requests are handled by the controllers.
+
+database.js: This file sets up the connection to the database.
+
+config.js: This file contains any configuration values that are needed by the backend.

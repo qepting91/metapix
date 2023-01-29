@@ -1,0 +1,18 @@
+## components directory: This directory contains the React components for the user interface of your application. The components include:
+ImageUpload.js: component for uploading the image.
+
+Results.js: component to display the results of the reverse image search.
+
+PDF.js: component to convert the results to PDF.
+
+## APIs directory: This directory contains the modules for communicating with the reverse image search APIs. The modules include:
+
+Axios.js: module for sending HTTP requests. Includes TinEyeReverseImageSearch and GoogleReverseImageSearch
+
+## PDF directory: This directory contains the module for converting the results to PDF. The module is:
+
+ReactToPDF.js: module for converting the results to PDF.
+
+package.json: This file contains the dependencies and scripts for building and running the application.
+
+index.js: This is the entry point for your application, and is the main file that brings together all of the components and modules.
