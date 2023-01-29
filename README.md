@@ -28,6 +28,11 @@ npm install
 OR
 yarn install
 
+Create a .env file in the root directory and set the following environment variables:
+
+GOOGLE_API_KEY=<your-google-api-key>
+TINEYE_API_KEY=<your-tineye-api-key>
+
 ## Start the development server:
 sql npm start
 or
